@@ -1,0 +1,10 @@
+{
+  "dataset": "SYNTHETIC DEMONSTRATION ONLY",
+  "seed": 67,
+  "step_minutes": 15,
+  "buildings": 3,
+  "meters": 6,
+  "training_days": 56,
+  "evaluation_days": 14,
+  "weather_adjustment_kw_per_c": 0.3
+}
